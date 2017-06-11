@@ -1,3 +1,3 @@
-# hello-word
-just try
-Learn Spring MVC for 7 days before forced into a project...............
+ # hello-word
+just try to
+Learn Spring MVC for 7 days before being forced into a project...............
